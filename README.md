@@ -17,13 +17,13 @@
    classificação do usuário após a verificação do seu IMC:
 
 
-          IMC         |     CLASSIFICAÇÃO      | OBESIDADE (GRAU)
+               IMC         |     CLASSIFICAÇÃO      |   OBESIDADE (GRAU)
 
          menor que 18,5    |       MAGREZA          |         0
 
          entre 18,5 E 24,9 |       NORMAL           |         0
 
-        entre 25,0 E 29,9 |       SOBREPESO        |         I
+         entre 25,0 E 29,9 |       SOBREPESO        |         I
 
          entre 30,0 E 39,9 |       OBESIDADE        |         II
 
